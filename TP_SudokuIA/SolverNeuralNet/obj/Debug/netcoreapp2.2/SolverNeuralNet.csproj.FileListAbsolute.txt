@@ -1,0 +1,3 @@
+C:\Users\chris\Desktop\TP_SudokuIA-master\SolverNeuralNet\obj\Debug\netcoreapp2.2\SolverNeuralNet.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\TP_SudokuIA-master\SolverNeuralNet\obj\Debug\netcoreapp2.2\SolverNeuralNet.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\TP_SudokuIA-master\SolverNeuralNet\obj\Debug\netcoreapp2.2\SolverNeuralNet.AssemblyInfo.cs
